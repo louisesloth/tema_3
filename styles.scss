@@ -1,0 +1,52 @@
+//overordnet
+  body {
+  background-color: #ffffff;
+  }
+
+  //Link til typografi
+    //h1 og p
+    @import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+    //h1 og p slut
+    //h2
+    @import url('https://fonts.googleapis.com/css?family=Bitter:700');
+    //h2 slut
+  //Link til typografi slut
+
+  header {
+    align-content: center;
+  }
+  #logosort {
+    width: 20px;
+  }
+}
+
+  h1 {
+    font-family: Crimson;
+    font-style: bold;
+    color: #338aff;
+    font-size: 20pt;
+
+  h2 {
+    font-family: Bitter;
+    font-style: bold;
+    text-align: center;
+    color: #4e6380;
+    font-size: x-large;
+  }
+
+  p {
+    font-family: Crimson;
+    text-align: left;
+    color: #4e6380;
+    font-size: large;
+  }
+//overordnet slut
+
+//navigation
+  nav {
+    //nav_placering af tekst
+    display: flex;
+    justify-content: space-around;
+    //nav_placering af tekst slut
+  }
+//navigation slut

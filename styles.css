@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Crimson+Text");
+@import url("https://fonts.googleapis.com/css?family=Bitter:700");
+body {
+  background-color: #ffffff; }
+
+h1 {
+  font-family: Crimson;
+  font-style: bold;
+  color: #338aff;
+  font-size: 10vw; }
+
+h2 {
+  font-family: Bitter;
+  font-style: bold;
+  text-align: center;
+  color: #4e6380;
+  font-size: x-large; }
+
+p {
+  font-family: Crimson;
+  text-align: left;
+  color: #4e6380;
+  font-size: large; }
+
+nav {
+  display: flex;
+  justify-content: space-around; }
+
+/*# sourceMappingURL=styles.css.map */
